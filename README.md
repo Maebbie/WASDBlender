@@ -1,2 +1,1 @@
-# WASDBlender
-Please see https://github.com/Maebbie/BlenderWASD
+## Please see https://github.com/Maebbie/BlenderWASD instead
